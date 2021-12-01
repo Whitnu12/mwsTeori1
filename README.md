@@ -3,4 +3,4 @@
 Document
 ==
 
-[document](mwsTeori1/app/src/main/)
+[document](/app/src/main/)
